@@ -7,17 +7,13 @@ External/WinRing0x64.dll -text
 External/WinRing0x64.sys -text
 GUI/AboutBox.Designer.cs -text
 GUI/AboutBox.cs -text
-GUI/AboutBox.resources -text
 GUI/AboutBox.resx -text
 GUI/HardwareNode.cs -text
-GUI/LicenseBox.resources -text
 GUI/MainForm.Designer.cs -text
 GUI/MainForm.cs -text
-GUI/MainForm.resources -text
 GUI/MainForm.resx -text
 GUI/PlotPanel.Designer.cs -text
 GUI/PlotPanel.cs -text
-GUI/PlotPanel.resources -text
 GUI/PlotPanel.resx -text
 GUI/SensorNode.cs -text
 GUI/TypeNode.cs -text
