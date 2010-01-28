@@ -30,6 +30,7 @@ Hardware/IGroup.cs -text
 Hardware/IHardware.cs -text
 Hardware/ISensor.cs -text
 Hardware/LPC/Chip.cs -text
+Hardware/LPC/F71882FG.cs -text
 Hardware/LPC/IT87.cs -text
 Hardware/LPC/LPCGroup.cs -text
 Hardware/LPC/W83627DHG.cs -text
