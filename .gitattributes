@@ -30,7 +30,7 @@ Hardware/IGroup.cs -text
 Hardware/IHardware.cs -text
 Hardware/ISensor.cs -text
 Hardware/LPC/Chip.cs -text
-Hardware/LPC/F71882FG.cs -text
+Hardware/LPC/F71882.cs -text
 Hardware/LPC/IT87.cs -text
 Hardware/LPC/LPCGroup.cs -text
 Hardware/LPC/W83627DHG.cs -text
@@ -66,4 +66,5 @@ Resources/voltage.png -text
 Utilities/Configuration.cs -text
 Utilities/CrashReport.cs -text
 Utilities/EmbeddedResources.cs -text
+Utilities/HexStringArray.cs -text
 Utilities/PInvokeDelegateFactory.cs -text
