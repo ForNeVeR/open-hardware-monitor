@@ -20,6 +20,7 @@ GUI/TypeNode.cs -text
 Hardware/ATI/ADL.cs -text
 Hardware/ATI/ATIGPU.cs -text
 Hardware/ATI/ATIGroup.cs -text
+Hardware/CPU/AMD0FCPU.cs -text
 Hardware/CPU/AMD10CPU.cs -text
 Hardware/CPU/CPUGroup.cs -text
 Hardware/CPU/IntelCPU.cs -text
