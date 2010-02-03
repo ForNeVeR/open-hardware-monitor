@@ -61,6 +61,7 @@ Resources/fan.png -text
 Resources/hdd.png -text
 Resources/icon.ico -text
 Resources/icon.xcf -text
+Resources/load.png -text
 Resources/nvidia.png -text
 Resources/temperature.png -text
 Resources/voltage.png -text
