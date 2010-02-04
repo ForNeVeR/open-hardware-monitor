@@ -23,6 +23,7 @@ Hardware/ATI/ATIGroup.cs -text
 Hardware/CPU/AMD0FCPU.cs -text
 Hardware/CPU/AMD10CPU.cs -text
 Hardware/CPU/CPUGroup.cs -text
+Hardware/CPU/CPULoad.cs -text
 Hardware/CPU/IntelCPU.cs -text
 Hardware/HDD/HDD.cs -text
 Hardware/HDD/HDDGroup.cs -text
@@ -51,6 +52,7 @@ Licenses/WinRing0.License.txt -text
 /OpenHardwareMonitor.sln -text
 /Program.cs -text
 Properties/AssemblyInfo.cs -text
+Resources/app.manifest -text
 Resources/ati.png -text
 Resources/bigng.png -text
 Resources/chip.png -text
