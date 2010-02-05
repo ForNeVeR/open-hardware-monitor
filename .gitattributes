@@ -65,6 +65,7 @@ Resources/icon.ico -text
 Resources/icon.xcf -text
 Resources/load.png -text
 Resources/nvidia.png -text
+Resources/smallicon.ico -text
 Resources/temperature.png -text
 Resources/voltage.png -text
 Utilities/Configuration.cs -text
