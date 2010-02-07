@@ -36,7 +36,7 @@ Hardware/LPC/Chip.cs -text
 Hardware/LPC/F718XX.cs -text
 Hardware/LPC/IT87XX.cs -text
 Hardware/LPC/LPCGroup.cs -text
-Hardware/LPC/W83627DHG.cs -text
+Hardware/LPC/W83627.cs -text
 Hardware/Nvidia/NVAPI.cs -text
 Hardware/Nvidia/NvidiaGPU.cs -text
 Hardware/Nvidia/NvidiaGroup.cs -text
