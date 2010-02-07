@@ -25,6 +25,7 @@ Hardware/CPU/AMD10CPU.cs -text
 Hardware/CPU/CPUGroup.cs -text
 Hardware/CPU/CPULoad.cs -text
 Hardware/CPU/IntelCPU.cs -text
+Hardware/Computer.cs -text
 Hardware/HDD/HDD.cs -text
 Hardware/HDD/HDDGroup.cs -text
 Hardware/HDD/SMART.cs -text
@@ -39,7 +40,6 @@ Hardware/LPC/W83627DHG.cs -text
 Hardware/Nvidia/NVAPI.cs -text
 Hardware/Nvidia/NvidiaGPU.cs -text
 Hardware/Nvidia/NvidiaGroup.cs -text
-Hardware/ReportWriter.cs -text
 Hardware/SMBIOS/SMBIOSGroup.cs -text
 Hardware/Sensor.cs -text
 Hardware/TBalancer/TBalancer.cs -text
