@@ -16,6 +16,8 @@ GUI/PlotPanel.Designer.cs -text
 GUI/PlotPanel.cs -text
 GUI/PlotPanel.resx -text
 GUI/SensorNode.cs -text
+GUI/SensorNotifyIcon.cs -text
+GUI/SensorSystemTray.cs -text
 GUI/TypeNode.cs -text
 Hardware/ATI/ADL.cs -text
 Hardware/ATI/ATIGPU.cs -text
@@ -74,4 +76,5 @@ Utilities/Configuration.cs -text
 Utilities/CrashReport.cs -text
 Utilities/EmbeddedResources.cs -text
 Utilities/HexStringArray.cs -text
+Utilities/IconFactory.cs -text
 Utilities/PInvokeDelegateFactory.cs -text
