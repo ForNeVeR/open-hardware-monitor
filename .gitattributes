@@ -12,6 +12,9 @@ GUI/HardwareNode.cs -text
 GUI/MainForm.Designer.cs -text
 GUI/MainForm.cs -text
 GUI/MainForm.resx -text
+GUI/ParameterForm.Designer.cs -text
+GUI/ParameterForm.cs -text
+GUI/ParameterForm.resx -text
 GUI/PlotPanel.Designer.cs -text
 GUI/PlotPanel.cs -text
 GUI/PlotPanel.resx -text
@@ -34,6 +37,7 @@ Hardware/HDD/SMART.cs -text
 Hardware/Hardware.cs -text
 Hardware/IGroup.cs -text
 Hardware/IHardware.cs -text
+Hardware/IParameter.cs -text
 Hardware/ISensor.cs -text
 Hardware/LPC/Chip.cs -text
 Hardware/LPC/F718XX.cs -text
@@ -44,6 +48,7 @@ Hardware/LPC/W836XX.cs -text
 Hardware/Nvidia/NVAPI.cs -text
 Hardware/Nvidia/NvidiaGPU.cs -text
 Hardware/Nvidia/NvidiaGroup.cs -text
+Hardware/Parameter.cs -text
 Hardware/SMBIOS/SMBIOSGroup.cs -text
 Hardware/Sensor.cs -text
 Hardware/TBalancer/TBalancer.cs -text
@@ -73,9 +78,11 @@ Resources/nvidia.png -text
 Resources/smallicon.ico -text
 Resources/temperature.png -text
 Resources/voltage.png -text
-Utilities/Configuration.cs -text
+Utilities/Config.cs -text
 Utilities/CrashReport.cs -text
 Utilities/EmbeddedResources.cs -text
 Utilities/HexStringArray.cs -text
+Utilities/IReadOnlyArray.cs -text
 Utilities/IconFactory.cs -text
 Utilities/PInvokeDelegateFactory.cs -text
+Utilities/ReadOnlyArray.cs -text
