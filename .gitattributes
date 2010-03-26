@@ -2,7 +2,6 @@
 External/Aga.Controls.dll -text
 External/WinRing0.dll -text
 External/WinRing0.sys -text
-External/WinRing0.vxd -text
 External/WinRing0x64.dll -text
 External/WinRing0x64.sys -text
 GUI/AboutBox.Designer.cs -text
@@ -21,6 +20,8 @@ GUI/PlotPanel.resx -text
 GUI/SensorNode.cs -text
 GUI/SensorNotifyIcon.cs -text
 GUI/SensorSystemTray.cs -text
+GUI/StartupManager.cs -text
+GUI/TaskScheduler.cs -text
 GUI/TypeNode.cs -text
 Hardware/ATI/ADL.cs -text
 Hardware/ATI/ATIGPU.cs -text
