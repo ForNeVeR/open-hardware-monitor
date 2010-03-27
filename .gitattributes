@@ -36,6 +36,7 @@ Hardware/HDD/HDD.cs -text
 Hardware/HDD/HDDGroup.cs -text
 Hardware/HDD/SMART.cs -text
 Hardware/Hardware.cs -text
+Hardware/IComputer.cs -text
 Hardware/IGroup.cs -text
 Hardware/IHardware.cs -text
 Hardware/IParameter.cs -text
