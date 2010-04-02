@@ -7,6 +7,9 @@ External/WinRing0x64.sys -text
 GUI/AboutBox.Designer.cs -text
 GUI/AboutBox.cs -text
 GUI/AboutBox.resx -text
+GUI/CrashReportForm.Designer.cs -text
+GUI/CrashReportForm.cs -text
+GUI/CrashReportForm.resx -text
 GUI/HardwareNode.cs -text
 GUI/MainForm.Designer.cs -text
 GUI/MainForm.cs -text
@@ -85,7 +88,6 @@ Resources/smallicon.ico -text
 Resources/temperature.png -text
 Resources/voltage.png -text
 Utilities/Config.cs -text
-Utilities/CrashReport.cs -text
 Utilities/EmbeddedResources.cs -text
 Utilities/HexStringArray.cs -text
 Utilities/IReadOnlyArray.cs -text
