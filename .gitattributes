@@ -45,6 +45,7 @@ Hardware/IGroup.cs -text
 Hardware/IHardware.cs -text
 Hardware/IParameter.cs -text
 Hardware/ISensor.cs -text
+Hardware/Identifier.cs -text
 Hardware/LPC/Chip.cs -text
 Hardware/LPC/F718XX.cs -text
 Hardware/LPC/IT87XX.cs -text
@@ -94,5 +95,6 @@ Utilities/EmbeddedResources.cs -text
 Utilities/HexStringArray.cs -text
 Utilities/IReadOnlyArray.cs -text
 Utilities/IconFactory.cs -text
+Utilities/ListSet.cs -text
 Utilities/PInvokeDelegateFactory.cs -text
 Utilities/ReadOnlyArray.cs -text
