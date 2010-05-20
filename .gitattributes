@@ -28,6 +28,7 @@ GUI/StartupManager.cs -text
 GUI/TaskScheduler.cs -text
 GUI/TreeModel.cs -text
 GUI/TypeNode.cs -text
+GUI/UnitManager.cs -text
 GUI/UpdateVisitor.cs -text
 Hardware/ATI/ADL.cs -text
 Hardware/ATI/ATIGPU.cs -text
