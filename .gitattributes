@@ -61,6 +61,7 @@ Hardware/LPC/W836XX.cs -text
 Hardware/Mainboard/Mainboard.cs -text
 Hardware/Mainboard/MainboardGroup.cs -text
 Hardware/Mainboard/Manufacturer.cs -text
+Hardware/Mainboard/Model.cs -text
 Hardware/Mainboard/SMBIOS.cs -text
 Hardware/Nvidia/NVAPI.cs -text
 Hardware/Nvidia/NvidiaGPU.cs -text
