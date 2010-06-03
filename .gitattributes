@@ -54,8 +54,8 @@ Hardware/IVisitor.cs -text
 Hardware/Identifier.cs -text
 Hardware/LPC/Chip.cs -text
 Hardware/LPC/F718XX.cs -text
+Hardware/LPC/ISuperIO.cs -text
 Hardware/LPC/IT87XX.cs -text
-Hardware/LPC/LPCHardware.cs -text
 Hardware/LPC/LPCIO.cs -text
 Hardware/LPC/W836XX.cs -text
 Hardware/Mainboard/Mainboard.cs -text
@@ -63,6 +63,7 @@ Hardware/Mainboard/MainboardGroup.cs -text
 Hardware/Mainboard/Manufacturer.cs -text
 Hardware/Mainboard/Model.cs -text
 Hardware/Mainboard/SMBIOS.cs -text
+Hardware/Mainboard/SuperIOHardware.cs -text
 Hardware/Nvidia/NVAPI.cs -text
 Hardware/Nvidia/NvidiaGPU.cs -text
 Hardware/Nvidia/NvidiaGroup.cs -text
