@@ -23,8 +23,8 @@ GUI/PlotPanel.cs -text
 GUI/PlotPanel.resx -text
 GUI/SensorNode.cs -text
 GUI/SensorNotifyIcon.cs -text
-GUI/SensorSystemTray.cs -text
 GUI/StartupManager.cs -text
+GUI/SystemTray.cs -text
 GUI/TaskScheduler.cs -text
 GUI/TreeModel.cs -text
 GUI/TypeNode.cs -text
