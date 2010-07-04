@@ -24,6 +24,7 @@ GUI/PlotPanel.resx -text
 GUI/ReportForm.Designer.cs -text
 GUI/ReportForm.cs -text
 GUI/ReportForm.resx -text
+GUI/ResetMinMaxVisitor.cs -text
 GUI/SensorNode.cs -text
 GUI/SensorNotifyIcon.cs -text
 GUI/StartupManager.cs -text
