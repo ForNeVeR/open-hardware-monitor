@@ -7,9 +7,9 @@ External/WinRing0x64.sys -text
 GUI/AboutBox.Designer.cs -text
 GUI/AboutBox.cs -text
 GUI/AboutBox.resx -text
-GUI/CrashReportForm.Designer.cs -text
-GUI/CrashReportForm.cs -text
-GUI/CrashReportForm.resx -text
+GUI/CrashForm.Designer.cs -text
+GUI/CrashForm.cs -text
+GUI/CrashForm.resx -text
 GUI/HardwareNode.cs -text
 GUI/MainForm.Designer.cs -text
 GUI/MainForm.cs -text
@@ -21,6 +21,9 @@ GUI/ParameterForm.resx -text
 GUI/PlotPanel.Designer.cs -text
 GUI/PlotPanel.cs -text
 GUI/PlotPanel.resx -text
+GUI/ReportForm.Designer.cs -text
+GUI/ReportForm.cs -text
+GUI/ReportForm.resx -text
 GUI/SensorNode.cs -text
 GUI/SensorNotifyIcon.cs -text
 GUI/StartupManager.cs -text
