@@ -18,15 +18,14 @@ GUI/Node.cs -text
 GUI/ParameterForm.Designer.cs -text
 GUI/ParameterForm.cs -text
 GUI/ParameterForm.resx -text
-GUI/PlotPanel.Designer.cs -text
 GUI/PlotPanel.cs -text
-GUI/PlotPanel.resx -text
 GUI/ReportForm.Designer.cs -text
 GUI/ReportForm.cs -text
 GUI/ReportForm.resx -text
 GUI/ResetMinMaxVisitor.cs -text
 GUI/SensorNode.cs -text
 GUI/SensorNotifyIcon.cs -text
+GUI/SplitContainerAdv.cs -text
 GUI/StartupManager.cs -text
 GUI/SystemTray.cs -text
 GUI/TaskScheduler.cs -text
