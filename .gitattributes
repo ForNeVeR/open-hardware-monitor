@@ -73,6 +73,7 @@ Hardware/Nvidia/NvidiaGPU.cs -text
 Hardware/Nvidia/NvidiaGroup.cs -text
 Hardware/Parameter.cs -text
 Hardware/Sensor.cs -text
+Hardware/SensorVisitor.cs -text
 Hardware/TBalancer/FTD2XX.cs -text
 Hardware/TBalancer/TBalancer.cs -text
 Hardware/TBalancer/TBalancerGroup.cs -text
