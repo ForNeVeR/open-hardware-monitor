@@ -92,6 +92,8 @@ Licenses/WinRing0.License.txt -text
 /OpenHardwareMonitorLib.csproj -text
 /Program.cs -text
 Properties/AssemblyInfo.cs -text
+Properties/AssemblyLibInfo.cs -text
+Properties/AssemblyVersion.cs -text
 Resources/app.manifest -text
 Resources/ati.png -text
 Resources/bigng.png -text
