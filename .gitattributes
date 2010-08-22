@@ -50,6 +50,8 @@ Hardware/HDD/HDD.cs -text
 Hardware/HDD/HDDGroup.cs -text
 Hardware/HDD/SMART.cs -text
 Hardware/Hardware.cs -text
+Hardware/Heatmaster/Heatmaster.cs -text
+Hardware/Heatmaster/HeatmasterGroup.cs -text
 Hardware/HexStringArray.cs -text
 Hardware/IComputer.cs -text
 Hardware/IElement.cs -text
