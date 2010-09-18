@@ -1,4 +1,5 @@
 * text=auto !eol
+/App.config -text
 Collections/IReadOnlyArray.cs -text
 Collections/ListSet.cs -text
 Collections/ReadOnlyArray.cs -text
