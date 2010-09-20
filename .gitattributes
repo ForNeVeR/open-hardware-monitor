@@ -50,6 +50,7 @@ Hardware/CPU/AMD10CPU.cs -text
 Hardware/CPU/CPUGroup.cs -text
 Hardware/CPU/CPUID.cs -text
 Hardware/CPU/CPULoad.cs -text
+Hardware/CPU/GenericCPU.cs -text
 Hardware/CPU/IntelCPU.cs -text
 Hardware/Computer.cs -text
 Hardware/HDD/HDD.cs -text
