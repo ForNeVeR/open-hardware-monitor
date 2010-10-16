@@ -131,9 +131,6 @@ Resources/voltage.png -text
 Utilities/EmbeddedResources.cs -text
 Utilities/IconFactory.cs -text
 Utilities/PersistentSettings.cs -text
-WMIProvider/Hardware.cs -text
-WMIProvider/IWmiObject.cs -text
-WMIProvider/Sensor.cs -text
 Wmi/Hardware.cs -text
 Wmi/IWmiObject.cs -text
 Wmi/Sensor.cs -text
