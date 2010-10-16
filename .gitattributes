@@ -134,4 +134,7 @@ Utilities/PersistentSettings.cs -text
 WMIProvider/Hardware.cs -text
 WMIProvider/IWmiObject.cs -text
 WMIProvider/Sensor.cs -text
-WMIProvider/WMIProvider.cs -text
+Wmi/Hardware.cs -text
+Wmi/IWmiObject.cs -text
+Wmi/Sensor.cs -text
+Wmi/WmiProvider.cs -text
