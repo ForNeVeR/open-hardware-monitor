@@ -93,6 +93,7 @@ Hardware/SensorVisitor.cs -text
 Hardware/TBalancer/FTD2XX.cs -text
 Hardware/TBalancer/TBalancer.cs -text
 Hardware/TBalancer/TBalancerGroup.cs -text
+Hardware/ThreadAffinity.cs -text
 Hardware/WinRing0.sys -text
 Hardware/WinRing0x64.sys -text
 Licenses/Aga.Controls.License.txt -text
