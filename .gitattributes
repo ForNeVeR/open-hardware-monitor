@@ -74,6 +74,7 @@ Hardware/LPC/ISuperIO.cs -text
 Hardware/LPC/IT87XX.cs -text
 Hardware/LPC/LMSensors.cs -text
 Hardware/LPC/LPCIO.cs -text
+Hardware/LPC/NCT677X.cs -text
 Hardware/LPC/W836XX.cs -text
 Hardware/Mainboard/Mainboard.cs -text
 Hardware/Mainboard/MainboardGroup.cs -text
