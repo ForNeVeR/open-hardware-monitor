@@ -50,6 +50,7 @@ Hardware/CPU/CPULoad.cs -text
 Hardware/CPU/GenericCPU.cs -text
 Hardware/CPU/IntelCPU.cs -text
 Hardware/Computer.cs -text
+Hardware/Control.cs -text
 Hardware/HDD/HDD.cs -text
 Hardware/HDD/HDDGroup.cs -text
 Hardware/HDD/SMART.cs -text
@@ -58,6 +59,7 @@ Hardware/Heatmaster/Heatmaster.cs -text
 Hardware/Heatmaster/HeatmasterGroup.cs -text
 Hardware/HexStringArray.cs -text
 Hardware/IComputer.cs -text
+Hardware/IControl.cs -text
 Hardware/IElement.cs -text
 Hardware/IGroup.cs -text
 Hardware/IHardware.cs -text
