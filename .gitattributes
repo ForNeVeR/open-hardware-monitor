@@ -38,6 +38,7 @@ GUI/TypeNode.cs -text
 GUI/UnitManager.cs -text
 GUI/UpdateVisitor.cs -text
 GUI/UserOption.cs -text
+GUI/UserRadioGroup.cs -text
 Hardware/ATI/ADL.cs -text
 Hardware/ATI/ATIGPU.cs -text
 Hardware/ATI/ATIGroup.cs -text
