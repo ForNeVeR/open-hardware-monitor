@@ -3,6 +3,7 @@
 Collections/IReadOnlyArray.cs -text
 Collections/ListSet.cs -text
 Collections/ReadOnlyArray.cs -text
+Collections/RingCollection.cs -text
 External/Aga.Controls.dll -text
 GUI/AboutBox.Designer.cs -text
 GUI/AboutBox.cs -text
