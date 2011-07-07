@@ -53,6 +53,7 @@ Hardware/CPU/GenericCPU.cs -text
 Hardware/CPU/IntelCPU.cs -text
 Hardware/Computer.cs -text
 Hardware/Control.cs -text
+Hardware/FirmwareTable.cs -text
 Hardware/HDD/HDD.cs -text
 Hardware/HDD/HDDGroup.cs -text
 Hardware/HDD/SMART.cs -text
@@ -80,6 +81,7 @@ Hardware/LPC/LMSensors.cs -text
 Hardware/LPC/LPCIO.cs -text
 Hardware/LPC/NCT677X.cs -text
 Hardware/LPC/W836XX.cs -text
+Hardware/Mainboard/GigabyteTAMG.cs -text
 Hardware/Mainboard/Mainboard.cs -text
 Hardware/Mainboard/MainboardGroup.cs -text
 Hardware/Mainboard/Manufacturer.cs -text
