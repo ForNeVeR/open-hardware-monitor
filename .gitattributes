@@ -67,9 +67,10 @@ Hardware/HDD/RequireSmartAttribute.cs -text
 Hardware/HDD/SSDIndilinx.cs -text
 Hardware/HDD/SSDIntel.cs -text
 Hardware/HDD/SSDPlextor.cs -text
+Hardware/HDD/SSDSamsung.cs -text
 Hardware/HDD/SSDSandforce.cs -text
 Hardware/HDD/SmartAttribute.cs -text
-Hardware/HDD/SmartAttributeNames.cs -text
+Hardware/HDD/SmartNames.cs -text
 Hardware/HDD/WindowsSmart.cs -text
 Hardware/Hardware.cs -text
 Hardware/Heatmaster/Heatmaster.cs -text
