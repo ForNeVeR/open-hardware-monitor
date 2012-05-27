@@ -102,6 +102,13 @@ External/Aga.Controls/Tree/TreeViewAdvCancelEventArgs.cs -text
 External/Aga.Controls/Tree/TreeViewAdvEventArgs.cs -text
 External/Aga.Controls/Tree/TreeViewRowDrawEventArgs.cs -text
 External/Aga.Controls/license.txt -text
+External/WinRing0/COPYRIGHT.txt -text
+External/WinRing0/MAKEFILE -text
+External/WinRing0/OlsIoctl.h -text
+External/WinRing0/OpenLibSys.c -text
+External/WinRing0/OpenLibSys.h -text
+External/WinRing0/OpenLibSys.rc -text
+External/WinRing0/SOURCES -text
 GUI/AboutBox.Designer.cs -text
 GUI/AboutBox.cs -text
 GUI/AboutBox.resx -text
