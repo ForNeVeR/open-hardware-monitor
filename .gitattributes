@@ -118,9 +118,7 @@ Hardware/TBalancer/TBalancerGroup.cs -text
 Hardware/ThreadAffinity.cs -text
 Hardware/WinRing0.sys -text
 Hardware/WinRing0x64.sys -text
-Licenses/Aga.Controls.License.txt -text
-Licenses/OpenHardwareMonitor.License.txt -text
-Licenses/WinRing0.License.txt -text
+Licenses/License.html -text
 /OpenHardwareMonitor.csproj -text
 /OpenHardwareMonitor.sln -text
 /OpenHardwareMonitorLib.csproj -text
