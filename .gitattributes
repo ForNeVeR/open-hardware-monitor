@@ -172,6 +172,7 @@ Hardware/HDD/NamePrefixAttribute.cs -text
 Hardware/HDD/RequireSmartAttribute.cs -text
 Hardware/HDD/SSDIndilinx.cs -text
 Hardware/HDD/SSDIntel.cs -text
+Hardware/HDD/SSDMicron.cs -text
 Hardware/HDD/SSDPlextor.cs -text
 Hardware/HDD/SSDSamsung.cs -text
 Hardware/HDD/SSDSandforce.cs -text
