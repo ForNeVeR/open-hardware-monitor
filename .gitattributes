@@ -214,6 +214,7 @@ Hardware/Nvidia/NVAPI.cs -text
 Hardware/Nvidia/NvidiaGPU.cs -text
 Hardware/Nvidia/NvidiaGroup.cs -text
 Hardware/Opcode.cs -text
+Hardware/OperatingSystem.cs -text
 Hardware/PInvokeDelegateFactory.cs -text
 Hardware/Parameter.cs -text
 Hardware/Ring0.cs -text
