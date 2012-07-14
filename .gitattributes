@@ -123,6 +123,7 @@ GUI/MainForm.Designer.cs -text
 GUI/MainForm.cs -text
 GUI/MainForm.resx -text
 GUI/Node.cs -text
+GUI/NotifyIconAdv.cs -text
 GUI/ParameterForm.Designer.cs -text
 GUI/ParameterForm.cs -text
 GUI/ParameterForm.resx -text
