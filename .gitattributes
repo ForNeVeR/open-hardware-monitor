@@ -205,11 +205,11 @@ Hardware/LPC/LPCIO.cs -text
 Hardware/LPC/NCT677X.cs -text
 Hardware/LPC/W836XX.cs -text
 Hardware/Mainboard/GigabyteTAMG.cs -text
+Hardware/Mainboard/Identification.cs -text
 Hardware/Mainboard/Mainboard.cs -text
 Hardware/Mainboard/MainboardGroup.cs -text
 Hardware/Mainboard/Manufacturer.cs -text
 Hardware/Mainboard/Model.cs -text
-Hardware/Mainboard/SMBIOS.cs -text
 Hardware/Mainboard/SuperIOHardware.cs -text
 Hardware/Nvidia/NVAPI.cs -text
 Hardware/Nvidia/NvidiaGPU.cs -text
@@ -218,7 +218,10 @@ Hardware/Opcode.cs -text
 Hardware/OperatingSystem.cs -text
 Hardware/PInvokeDelegateFactory.cs -text
 Hardware/Parameter.cs -text
+Hardware/RAM/GenericRAM.cs -text
+Hardware/RAM/RAMGroup.cs -text
 Hardware/Ring0.cs -text
+Hardware/SMBIOS.cs -text
 Hardware/Sensor.cs -text
 Hardware/SensorVisitor.cs -text
 Hardware/TBalancer/FTD2XX.cs -text
