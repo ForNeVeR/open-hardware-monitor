@@ -295,6 +295,7 @@ Resources/load.png -text
 Resources/mainboard.png -text
 Resources/nvidia.png -text
 Resources/power.png -text
+Resources/ram.png -text
 Resources/smallicon.ico -text
 Resources/temperature.png -text
 Resources/voltage.png -text
