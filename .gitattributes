@@ -104,10 +104,10 @@ External/Aga.Controls/Tree/TreeViewRowDrawEventArgs.cs -text
 External/Aga.Controls/license.txt -text
 External/OxyPlot/GlobalAssemblyInfo.cs -text
 External/OxyPlot/OxyPlot.WindowsForms/GraphicsRenderContext.cs -text
+External/OxyPlot/OxyPlot.WindowsForms/HashSet.cs -text
 External/OxyPlot/OxyPlot.WindowsForms/Helpers/ConverterExtensions.cs -text
 External/OxyPlot/OxyPlot.WindowsForms/NamespaceDoc.cs -text
 External/OxyPlot/OxyPlot.WindowsForms/OxyPlot.WindowsForms.csproj -text
-External/OxyPlot/OxyPlot.WindowsForms/OxyPlot.WindowsForms.snk -text
 External/OxyPlot/OxyPlot.WindowsForms/Plot.cs -text
 External/OxyPlot/OxyPlot.WindowsForms/PlotControl.cs -text
 External/OxyPlot/OxyPlot.WindowsForms/PngExporter.cs -text
@@ -195,6 +195,7 @@ External/OxyPlot/OxyPlot/Foundation/SutherlandHodgmanClipping.cs -text
 External/OxyPlot/OxyPlot/Foundation/VerticalAlignment.cs -text
 External/OxyPlot/OxyPlot/Foundation/XmlWriterBase.cs -text
 External/OxyPlot/OxyPlot/LibraryDoc.cs -text
+External/OxyPlot/OxyPlot/LinqBridge.cs -text
 External/OxyPlot/OxyPlot/Manipulators/CursorType.cs -text
 External/OxyPlot/OxyPlot/Manipulators/IPlotControl.cs -text
 External/OxyPlot/OxyPlot/Manipulators/ManipulationEventArgs.cs -text
@@ -210,7 +211,6 @@ External/OxyPlot/OxyPlot/MouseActions/MouseAction.cs -text
 External/OxyPlot/OxyPlot/MouseActions/SliderAction.cs -text
 External/OxyPlot/OxyPlot/NamespaceDoc.cs -text
 External/OxyPlot/OxyPlot/OxyPlot.csproj -text
-External/OxyPlot/OxyPlot/OxyPlot.snk -text
 External/OxyPlot/OxyPlot/PlotModel/HitTestResult.cs -text
 External/OxyPlot/OxyPlot/PlotModel/OxyMouseButton.cs -text
 External/OxyPlot/OxyPlot/PlotModel/OxyMouseEventArgs.cs -text
@@ -286,7 +286,6 @@ External/OxyPlot/OxyPlot/Series/BoxPlotSeries.cs -text
 External/OxyPlot/OxyPlot/Series/CandleStickSeries.cs -text
 External/OxyPlot/OxyPlot/Series/ContourSeries.cs -text
 External/OxyPlot/OxyPlot/Series/DataPointSeries.cs -text
-External/OxyPlot/OxyPlot/Series/DataSeries.cs -text
 External/OxyPlot/OxyPlot/Series/FunctionSeries.cs -text
 External/OxyPlot/OxyPlot/Series/HeatMapSeries.cs -text
 External/OxyPlot/OxyPlot/Series/HighLowItem.cs -text

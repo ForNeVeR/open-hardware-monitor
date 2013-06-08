@@ -84,6 +84,11 @@ External/Aga.Controls/web
 External/Bin
 External/Doc
 External/Obj
+External/OxyPlot/*.suo
+External/OxyPlot/OxyPlot.WindowsForms/Bin
+External/OxyPlot/OxyPlot.WindowsForms/Obj
+External/OxyPlot/OxyPlot/Bin
+External/OxyPlot/OxyPlot/Obj
 External/Web
 External/_ReSharper.OpenHardwareMonitor
 External/bin
