@@ -102,6 +102,8 @@ External/Aga.Controls/Tree/TreeViewAdvCancelEventArgs.cs -text
 External/Aga.Controls/Tree/TreeViewAdvEventArgs.cs -text
 External/Aga.Controls/Tree/TreeViewRowDrawEventArgs.cs -text
 External/Aga.Controls/license.txt -text
+External/OxyPlot.WindowsForms.dll -text
+External/OxyPlot.dll -text
 External/OxyPlot/GlobalAssemblyInfo.cs -text
 External/OxyPlot/OxyPlot.WindowsForms/GraphicsRenderContext.cs -text
 External/OxyPlot/OxyPlot.WindowsForms/HashSet.cs -text
