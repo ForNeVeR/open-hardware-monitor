@@ -510,6 +510,7 @@ Resources/voltage.png -text
 Utilities/EmbeddedResources.cs -text
 Utilities/HttpServer.cs -text
 Utilities/IconFactory.cs -text
+Utilities/Logger.cs -text
 Utilities/PersistentSettings.cs -text
 WMI/Hardware.cs -text
 WMI/IWmiObject.cs -text
